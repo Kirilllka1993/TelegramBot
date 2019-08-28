@@ -1,7 +1,6 @@
 package com.example.myproject.config;
 
 import com.example.myproject.exception.NoSuchTownException;
-import com.example.myproject.mapper.TownMapper;
 import com.example.myproject.model.Town;
 import com.example.myproject.service.UserService;
 import lombok.AllArgsConstructor;

@@ -32,7 +32,6 @@ public class TownController {
     }
 
     @RequestMapping(value = "/findTown/{townId}", method = RequestMethod.GET)
-
     public ResponseEntity<TownDto> findTownById(@PathVariable("townId") long townId) throws NoSuchTownException {
         TownDto townDto= adminService.findTownById(townId);
         return ResponseEntity.ok().body(townDto);
