@@ -25,6 +25,7 @@ public class TownController {
         return ResponseEntity.ok().body(mess);
     }
 
+
     @GetMapping("/findDescription")
     public ResponseEntity<TownDto> getHello(@RequestBody TownDto townDto) throws NoSuchTownException {
         TownDto mess= userService.getDescription(townDto.getTownName());
