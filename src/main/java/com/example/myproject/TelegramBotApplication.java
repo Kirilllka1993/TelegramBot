@@ -51,4 +51,4 @@ public class TelegramBotApplication {
 
 }
 
-//https://medium.com/@oleksiydzhus/how-to-build-a-bot-with-microsoft-bot-framework-and-spring-boot-558fb32b7d3c
+

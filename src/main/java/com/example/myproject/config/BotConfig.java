@@ -118,4 +118,4 @@ public class BotConfig extends TelegramLongPollingBot {
 //token: 745428405:AAEs9OiGXiWjdv5DXCa0OokuRZWh15nYcaU
 //name town
 //username: kirill1111_bot
-//https://monsterdeveloper.gitbooks.io/writing-telegram-bots-on-java/content/chapter1.html
+
