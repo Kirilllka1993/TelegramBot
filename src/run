@@ -1,3 +1,0 @@
-set search_path =telegram;
-ALTER SEQUENCE telegram.town_id_seq
-    START WITH 5;
